@@ -74,11 +74,11 @@
 			<br>
 			Komponenty komputera:
 			<br>
-			<a href="https://michu-sys.github.io/komp1/"> -Procesor </a> </br>
+			<a href="https://michu-sys.github.io/komp1/"> -Procesor </a> <br />
 			<br>
 			<a href="https://michu-sys.github.io/komp4/"> -Karta Graficzna </a>   <br />
 			<br>
-		    <a href="Pamięć Ram.html"> -Pamięć Ram</a>   <br />
+		    <a href="https://michu-sys.github.io/komp2/"> -Pamięć Ram</a>   <br />
 			<br>
 			<a href="Zasilacz.html"> -Zasilacz </a>   
 			<br>
