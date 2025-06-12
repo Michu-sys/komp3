@@ -73,10 +73,10 @@
 		    <a href="https://michu-sys.github.io/komp0/"> Strona Główna </a>   <br />
 			<br>
 			Komponenty komputera:
-			<br></br>
+			<br>
 			<a href="https://michu-sys.github.io/komp1/"> -Procesor </a> </br>
 			<br>
-			<a href="Karta Graficzna.html"> -Karta Graficzna </a>   <br />
+			<a href="https://michu-sys.github.io/komp4/"> -Karta Graficzna </a>   <br />
 			<br>
 		    <a href="Pamięć Ram.html"> -Pamięć Ram</a>   <br />
 			<br>
